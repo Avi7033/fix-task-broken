@@ -1,0 +1,19 @@
+{
+    "results": {
+        "tool": {
+            "name": "pytest",
+            "version": "8.4.1"
+        },
+        "summary": {
+            "tests": 0,
+            "passed": 0,
+            "failed": 0,
+            "skipped": 0,
+            "pending": 0,
+            "other": 0,
+            "start": 1784791107.957919,
+            "stop": 1784791107.9886577
+        },
+        "tests": []
+    }
+}
